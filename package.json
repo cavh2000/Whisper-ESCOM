@@ -1,0 +1,25 @@
+{
+  "name": "whisper-escom",
+  "version": "1.0.0",
+  "description": "Aplicación web de chismes, creada para la materia optativa Criptography",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyperionTR/Whisper-ESCOM.git"
+  },
+  "author": "Einhänder",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/HyperionTR/Whisper-ESCOM/issues"
+  },
+  "homepage": "https://github.com/HyperionTR/Whisper-ESCOM",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
